@@ -1,7 +1,5 @@
+    --- Repositório de Projetos do Curso ---
 
-    👋 Olá, eu me chamo Jocimar Borges Júnior, tenho 19 anos e entrei na universidade em Março de 2023.
-    👀 Estou interessado em uma vaga de estágio na área de Desenvolvimento Web/Java ou Cargo de Júnior.
-    🎓 Atualmente estou cursando Engenharia de Software (4° período), na UTFPR (Universidade Tecnológica Federal do Paraná).
-    👨🏻‍💻 Procuro trabalhar na área de T.I. e inicialmente desenvolvendo sistemas em Java/Websites (fullstack), posteriormente tenho interesse em I.A./V.R.
-    📫 Como entrar em contato comigo: (Celular: +55 (17) 99794-1085) - (Email Profissional: jocimarjuniorrr6@outlook.com)
+    🎓 A finalidade deste repositório é somente para apresentar e separar os projetos desenvolvidos durante o Curso de Engenharia de Software na UTFPR dos projetos pessoais que desenvolvi.
+    👨🏻‍💻 Projeto Eletrônico P.O.O. = Linguagem Java; utilizar NetBeans para funcionamento da Interface Gráfica e demais funcionalidades; Desenvolvido no 3° semestre.
 
